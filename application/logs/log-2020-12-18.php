@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-18 00:31:26 --> 404 Page Not Found: Sitemapxmlgz/index
+ERROR - 2020-12-18 03:48:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-18 07:11:04 --> 404 Page Not Found: Old/wp-admin
+ERROR - 2020-12-18 09:01:06 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-18 09:01:07 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-18 09:01:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-18 09:32:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-18 09:32:37 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-18 09:32:37 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-18 10:31:22 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2020-12-18 10:50:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-18 12:31:33 --> 404 Page Not Found: Apple-touch-icon-152x152-precomposedpng/index
+ERROR - 2020-12-18 12:31:33 --> 404 Page Not Found: Apple-touch-icon-152x152png/index
+ERROR - 2020-12-18 12:31:34 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2020-12-18 12:31:34 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2020-12-18 12:31:34 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2020-12-18 12:31:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-18 12:31:35 --> 404 Page Not Found: Apple-touch-icon-152x152-precomposedpng/index
+ERROR - 2020-12-18 12:31:36 --> 404 Page Not Found: Apple-touch-icon-152x152png/index
+ERROR - 2020-12-18 12:31:36 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2020-12-18 12:31:36 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2020-12-18 12:31:37 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2020-12-18 12:31:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-18 14:22:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-18 17:40:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-18 18:07:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-18 18:11:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-18 18:11:59 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-18 18:11:59 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-18 18:17:33 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-18 18:17:33 --> 404 Page Not Found: Assets/login

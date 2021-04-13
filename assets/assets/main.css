@@ -1,0 +1,57 @@
+
+.container-footer {
+    width: 80%;
+    margin:0 auto;
+}
+
+
+#rodape h2 {
+    color: var(--color-grey);
+    font-size: 30px;
+}
+
+
+#rodape a {
+    display: block;
+    font-weight: bold;
+    color:var(--color-yellow);
+}
+
+.saiba {
+    display: none!important;
+}
+
+.menu {
+    display: none;
+}
+
+.show {
+    display: block!important;
+}
+
+@media(max-width:760px) {
+        nav li:nth-child(5) {
+            background:none!important;
+            color:#c8890c!important;
+     }
+}
+
+@font-face {
+    font-family:Campton;
+    src: url("../media/Campton-BoldDEMO.otf")
+}
+
+@font-face {
+    font-family: Zonapro;
+    src: url("../media/ZonaPro-ExtraLight.otf")
+}
+
+@keyframes fade {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity:1
+    }
+}

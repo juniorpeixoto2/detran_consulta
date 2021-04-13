@@ -1,0 +1,393 @@
+:root {
+    --color-primary:#2c2c42;
+    --color-secondary:#228cf4;
+    --color-yellow:#a89968;
+    --color-grey:#535353;
+}
+
+/*Header*/
+header {
+    width: 100vw;
+    height: 120vh;
+    background-image: url(../media/FUNDO.png)
+}
+
+
+nav a {
+    color: rgba(255, 255, 255, 0.651)!important;
+    font-family: "Campton";
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+nav a:hover {
+    color:var(--color-secondary)!important;
+}
+
+nav li:nth-child(5) {
+   border: 2px solid var(--color-yellow);
+   border-radius: 20px;
+   font-weight: bold;
+}
+
+header h2 {
+    font-family: "Zonapro";
+    font-size: 110px;
+    margin-top: 22vh;
+}
+
+header p {
+    font-family: "Zonapro";
+    font-size: 30px;
+}
+header button.btn-lg {
+    background:linear-gradient(to right,#1f3369,#003794)!important;
+    font-family: "Zonapro";
+    font-size: 25px;
+    border:none;
+    border-radius: 60px!important;
+}
+
+/*MAIN*/
+.tipos-a {
+    font-family: "Zonapro";
+    font-size: 48px;
+    color:#1f3369;
+}
+
+.btn-2 .btn-lg {
+    background:linear-gradient(to right,#1f3369,#003794)!important;
+    font-family: "Zonapro";
+    font-size: 25px;
+    border:none;
+    border-radius: 60px!important;
+    margin-bottom: 5%;
+}
+
+.linha {
+    border-bottom: 1px solid #1f3369;
+    width: 40%;
+    margin: 0 auto;
+}
+
+section#vantagens {
+    margin-top: -30px;
+}
+
+section#vantagens .row {
+    display: flex;
+    justify-content:center
+}
+
+section#vantagens .box {
+    background:linear-gradient(to right,#1f3369,#00619c)!important;
+    border-radius: 8px;
+    width: 11vw;
+    padding: 10px;
+    margin-left: 3%;
+}
+
+section#vantagens .box:hover {
+    background:#1f3369!important;
+    transform: scale(1.1);
+}
+
+section#vantagens .box .text-center a {
+    font-family: "Zonapro";
+    font-size: 10px;
+    display: block;
+    margin-top: 2vh;
+}
+
+section#vantagens .box .text-center a:hover {
+    color:#00619c!important;
+
+}
+
+section#abrir-conta {
+    margin-top:5%;
+    margin-bottom: 5%;
+}
+
+section#abrir-conta h2 {
+    font-family: "Zonapro";
+    font-size: 30px;
+}
+
+section#abrir-conta button {
+    background: #1f3369;
+    font-family: "Zonapro";
+    font-size: 25px;
+    border:none;
+    border-radius: 60px!important;
+    margin-top: 2%;
+    padding: 1vh 5vw;
+}
+
+section#sobre-renda-fixa {
+    background: #07023d;
+    padding:2%;
+    animation:fade 1.3s;
+    margin-bottom: 4%;
+}
+
+section#sobre-renda-fixa h2 {
+    font-family:"Zonapro";
+    font-size: 55px;
+}
+
+section#sobre-renda-fixa p {
+    font-family: "Zonapro";
+    font-size: 25px;
+}
+
+section#tipos {
+    background: linear-gradient(to right,#6d6342,var(--color-yellow));
+    display: flex;
+    justify-content:center;
+    padding:2%;
+    animation:fade 2s;
+}
+
+section#tipos .box2 {
+    background: #ffff;
+    border-radius: 8px;
+    width: 11vw;
+    padding: 10px;
+    margin-left: 3%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+section#tipos .box2 h3 {
+    font-family: "Zonapro";
+    font-size: 16px;
+    color:#07023d;
+}
+
+section#tipos .box2 p {
+    font-family: "Zonapro";
+    font-size: 12px;
+}
+
+
+
+section#fundo-investimentos-sobre {
+    background: #07023d;
+    padding:2%;
+    animation:fade 1.3s;
+    margin-bottom: 4%;
+}
+
+section#fundo-investimentos-sobre h2,section#acoes-sobre h2 {
+    font-family: "Zonapro";
+    font-size: 55px;
+}
+
+section#fundo-investimentos-sobre p,section#acoes-sobre p {
+    font-family: "Zonapro";
+    font-size: 25px;
+}
+
+section#fundo-investimentos-sobre a,section#acoes-sobre a {
+    font-family: "Zonapro";
+    font-size: 25px;
+}
+
+section#fundo-investimentos-dados h1 {
+    font-family: "Zonapro";
+    font-size: 55px;
+    color: #07023d;
+}
+
+section#fundo-investimentos-dados h2 {
+    font-family: "Zonapro";
+    font-size: 30px;
+    color: #07023d;
+}
+
+section#fundo-investimentos-dados p {
+    font-family: "Zonapro";
+    font-size: 25px;
+    color: #07023d;
+}
+
+#acoes {
+    margin-top: 5%;
+    animation:fade 2s;
+}
+
+section#acoes-sobre {
+    background: #07023d!important;
+    padding: 2%;
+}
+
+#acoes button {
+    background:linear-gradient(to right,#1f3369,#003794)!important;
+    font-family: "Zonapro";
+    font-size: 25px;
+    border:none;
+    border-radius: 60px!important;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+#fundo-imobiliario {
+    margin-top: 5%;
+    animation:fade 2s;
+}
+
+section#fundo-imobiliario-sobre {
+    background: #07023d!important;
+    padding:2%;
+    animation:fade 1.3s;
+    margin-bottom: 4%;
+}
+
+section#fundo-imobiliario-sobre h2 {
+    font-family: "Zonapro";
+    font-size:55px;
+}
+
+section#fundo-imobiliario-sobre p {
+    font-family: "Zonapro";
+    font-size:25px;
+}
+
+section#fundo-imobiliario-sobre a {
+    font-family: "Zonapro";
+    font-size:25px;
+}
+
+#coe {
+    margin-top: 5%;
+    animation:fade 2s;
+}
+
+section#coe-sobre {
+    background-image: url(../media/coeFundo.jpg);
+    background-size: cover;
+    padding: 2%;
+    margin-bottom:4%;
+}
+
+section#coe-sobre h2 {
+    font-family: "Zonapro";
+    font-size:55px;
+}
+
+section#coe-sobre h3 {
+    font-family: "Zonapro";
+    font-size:27px;
+}
+
+section#coe-sobre p {
+    font-family: "Zonapro";
+    font-size:25px;
+}
+
+section#coe-dados h2 {
+    font-family: "Zonapro";
+    font-size: 30px;
+    color: #07023d;
+    margin-top: 4%;
+}
+
+section#coe-dados p {
+    font-family: "Zonapro";
+    font-size: 25px;
+    color: #07023d;
+}
+
+section#coe-dados p.text-start {
+    margin-left: 20%;
+}
+
+
+
+
+
+#fundo-imobiliario button {
+    background:linear-gradient(to right,#1f3369,#003794)!important;
+    font-family: "Zonapro";
+    font-size: 25px;
+    border:none;
+    border-radius: 60px!important;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+#fundo-imobiliario h2.text-center {
+    font-family: "Zonapro";
+    font-size: 40px;
+    color:var(--color-yellow);
+}
+
+#fundo-imobiliario img {
+    display: flex;
+    justify-content:center
+}
+
+
+@media(max-width:980px) {
+    nav li:nth-child(5) {
+        width: 12vw;
+        background-color:var(--color-yellow)!important;
+        border:none;
+        text-align: center;
+     }
+}
+
+@media(max-width:768px) {
+    /*HEADER*/
+
+     header h2 {
+         font-size:70px;
+     }
+
+     header p {
+         font-size: 20px;
+     }
+
+     /*MAIN*/
+     section#vantagens .row {
+         display: block;
+     }
+     section#vantagens .box {
+         width: 100vw;
+         min-width: 320px;
+         margin: 0 auto;
+         margin-top: 2%;
+     }
+
+     section#tipos {
+        display: block;
+    }
+
+     section#tipos .box2 {
+        width: 100%;
+        margin-top: 2%;
+     }
+
+}
+
+@media(max-width:400px) {
+    header h2 {
+        font-size:40px;
+    }
+
+    header p {
+        font-size: 16px;
+    }
+}
+
+@keyframes fade {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity:1
+    }
+}
+
+

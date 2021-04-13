@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-01-31 00:40:33 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2021-01-31 08:07:02 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-01-31 08:07:04 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-01-31 08:07:05 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-01-31 08:07:06 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-01-31 08:07:06 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-01-31 08:07:07 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-01-31 08:07:09 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-01-31 08:07:10 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-01-31 08:07:10 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-01-31 08:07:11 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-01-31 08:07:13 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-01-31 08:07:14 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-01-31 08:07:16 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-01-31 08:07:17 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-01-31 08:07:20 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-01-31 08:07:21 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-01-31 08:18:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-31 08:18:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-31 08:55:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-31 08:55:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-31 08:55:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-31 08:55:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-31 08:55:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-31 08:55:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-31 09:01:58 --> 404 Page Not Found: Wp/wp-admin
+ERROR - 2021-01-31 10:04:30 --> 404 Page Not Found: Wp-admin/index
+ERROR - 2021-01-31 11:17:29 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-31 11:17:29 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-31 11:17:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-31 11:19:18 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-31 11:19:18 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-31 18:48:42 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-31 18:48:42 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-31 20:20:41 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-08-26 11:20:21 --> 404 Page Not Found: Js/admin.js
+ERROR - 2020-08-26 17:21:27 --> 404 Page Not Found: Assets/js
+ERROR - 2020-08-26 17:21:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-08-26 17:21:30 --> 404 Page Not Found: Assets/js
+ERROR - 2020-08-26 17:21:45 --> 404 Page Not Found: Site/assets
+ERROR - 2020-08-26 17:21:53 --> 404 Page Not Found: Assets/js
+ERROR - 2020-08-26 17:22:02 --> 404 Page Not Found: Site/assets
+ERROR - 2020-08-26 17:22:50 --> 404 Page Not Found: Site/assets
+ERROR - 2020-08-26 17:22:52 --> 404 Page Not Found: Site/assets
+ERROR - 2020-08-26 17:22:57 --> 404 Page Not Found: Site/assets
+ERROR - 2020-08-26 17:23:09 --> 404 Page Not Found: Site/assets
+ERROR - 2020-08-26 17:23:27 --> 404 Page Not Found: Site/assets
+ERROR - 2020-08-26 17:23:37 --> 404 Page Not Found: Site/assets
+ERROR - 2020-08-26 17:23:42 --> 404 Page Not Found: Assets/js
+ERROR - 2020-08-26 17:24:00 --> 404 Page Not Found: Site/assets
+ERROR - 2020-08-26 19:31:10 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-08-26 19:31:12 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-08-26 19:31:12 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-08-26 19:31:13 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-08-26 19:31:13 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-08-26 19:31:13 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-08-26 19:31:14 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-08-26 19:31:14 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2020-08-26 19:31:15 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-08-26 19:31:15 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-08-26 19:31:16 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-08-26 19:31:16 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-08-26 19:31:17 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2020-08-26 19:31:17 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-08-26 19:31:17 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-08-26 19:31:18 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-08-26 19:31:18 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-08-26 21:01:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-26 21:01:19 --> 404 Page Not Found: Robotstxt/index

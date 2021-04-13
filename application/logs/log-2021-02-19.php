@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-02-19 00:05:54 --> 404 Page Not Found: Assets/login
+ERROR - 2021-02-19 00:05:54 --> 404 Page Not Found: Assets/login
+ERROR - 2021-02-19 00:24:28 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-02-19 07:17:24 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-02-19 10:41:47 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-02-19 10:46:18 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-19 10:46:18 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-19 10:46:18 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-19 10:46:19 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-02-19 10:46:22 --> 404 Page Not Found: Assets/login
+ERROR - 2021-02-19 10:46:22 --> 404 Page Not Found: Assets/login
+ERROR - 2021-02-19 10:46:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-02-19 11:01:52 --> 404 Page Not Found: Assets/login
+ERROR - 2021-02-19 11:01:52 --> 404 Page Not Found: Assets/login
+ERROR - 2021-02-19 11:54:10 --> 404 Page Not Found: Assets/login
+ERROR - 2021-02-19 11:54:10 --> 404 Page Not Found: Assets/login
+ERROR - 2021-02-19 11:54:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-02-19 11:56:59 --> 404 Page Not Found: Assets/login
+ERROR - 2021-02-19 11:56:59 --> 404 Page Not Found: Assets/login
+ERROR - 2021-02-19 12:47:47 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-02-19 14:51:20 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-19 14:51:20 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-19 14:51:20 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-19 14:51:24 --> 404 Page Not Found: Assets/login
+ERROR - 2021-02-19 14:51:24 --> 404 Page Not Found: Assets/login
+ERROR - 2021-02-19 16:41:37 --> 404 Page Not Found: Git/HEAD
+ERROR - 2021-02-19 19:20:49 --> 404 Page Not Found: Git/HEAD

@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-01-13 01:27:41 --> 404 Page Not Found: Old/wp-admin
+ERROR - 2021-01-13 02:47:18 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-01-13 10:44:11 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-13 10:44:11 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-13 10:44:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-13 11:08:55 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-01-13 11:08:55 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-01-13 11:08:55 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-01-13 11:08:55 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-01-13 11:08:58 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-13 11:08:58 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-13 11:08:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-13 11:15:07 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-13 11:15:07 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-13 13:43:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-13 13:43:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-13 15:31:43 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-01-13 15:31:47 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-13 15:31:47 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-13 15:31:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-13 15:41:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-13 17:48:53 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-13 17:48:53 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-13 17:48:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-13 17:49:13 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-13 17:49:13 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-13 23:24:02 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-01-13 23:24:02 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-01-13 23:24:02 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-01-13 23:24:04 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-01-13 23:44:20 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-13 23:44:20 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-13 23:44:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-13 23:50:24 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-13 23:50:24 --> 404 Page Not Found: Assets/login

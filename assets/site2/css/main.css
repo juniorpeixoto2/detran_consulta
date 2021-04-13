@@ -1,0 +1,67 @@
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+/*  Configuração das fontes  */
+
+@font-face {
+    src: url(../fonts/Campton-BoldDEMO.otf);
+    font-family: 'Campton';    
+    font-weight: bold;
+}
+
+@font-face {
+    src: url(../fonts/Campton-LightDEMO.otf);
+    font-family: 'Campton';    
+    font-weight: 300;
+}
+
+@font-face {
+    src: url(../fonts/ZonaPro-Bold.otf);
+    font-family: 'Zona pro';    
+    font-weight: bold;
+}
+
+@font-face {
+    src: url(../fonts/ZonaPro-ExtraLight.otf);
+    font-family: 'Zona pro';    
+    font-weight: 300;
+}
+
+
+/*  Configuração de algumas propriedades  */
+
+:root {
+    font-size: 0.53vw;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+input, select, a:link, button{
+    text-decoration: none;
+    border: none;
+}
+
+h1, h2, h3, li, a{
+    color: #ffffff;
+}
+
+li{
+    list-style-type: none;
+}
+
+/*  Algumas confgurações de animações  */
+
+a, button, li {
+    transition: 600ms;
+}
+
+a:hover, button:hover, li:hover {
+    opacity: 0.8;
+}

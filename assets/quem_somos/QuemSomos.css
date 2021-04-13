@@ -1,0 +1,116 @@
+:root {
+    --color-primary:#2c2c42;
+    --color-secondary:#228cf4;
+    --color-yellow:#a89968;
+    --color-grey:#535353;
+}
+
+
+header {
+    min-width: 100vw;
+    height: 85vh;
+    background-image:url(./src/FUNDO.png);
+    background-repeat: no-repeat;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+}
+
+
+nav a {
+    color: rgba(255, 255, 255, 0.651);
+}
+
+nav a:hover {
+    color:var(--color-secondary)!important;
+}
+
+nav li:nth-child(5) {
+   border: 1px solid #454d03;
+   border-radius: 20px;
+   font-weight: bold;
+}
+
+nav h2 {
+    font-family:"Campton";
+    font-weight: bold;
+    font-size: 44px;
+    color: #ffff;
+    position: absolute;
+    top: 40vh;
+    left: 16vw;
+}
+
+nav span {
+    font-family:"Campton";
+    font-weight: bold;
+    font-size: 80px;
+    position: relative;
+    bottom: 10px;
+}
+
+nav .mobile {
+    display: none;
+}
+
+#sobre {
+    display:flex;
+    justify-content:center;
+    align-items:start;
+}
+
+#sobre p {
+    font-family: "Zonapro";
+    font-size: 30px;
+    font-weight: bold;
+    color: var(--color-primary);
+}
+
+footer h1 {
+    font-family:"Campton";
+    font-size: 55px;
+    color: var(--color-primary);
+}
+
+@media(max-width:800px) {
+    header {
+        border-radius: none;
+    }
+    .navbar-toggler,.navbar-toggler-icon {
+        margin-right: 20%;
+    }
+
+    #sobre p {
+        font-size: 24px;
+    }
+
+    footer h1 {
+        font-size: 40px;
+        margin-left: 30px;
+    }
+}
+
+@media(max-width:450px) {
+    nav h2 {
+        display: none;
+    }
+
+    nav span{
+        display: none;
+    }
+
+
+    footer h1 {
+        font-size: 40px;
+        margin-left: 10px;
+    }
+
+    footer img {
+        width: 300px;
+        margin-left: 20px!important;
+    }
+}
+
+
+
+
+

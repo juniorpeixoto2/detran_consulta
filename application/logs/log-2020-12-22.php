@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-22 06:03:54 --> 404 Page Not Found: Backup/wp-admin
+ERROR - 2020-12-22 08:18:29 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-22 08:18:29 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-22 08:18:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-22 08:24:25 --> 404 Page Not Found: Assets/quem_somos
+ERROR - 2020-12-22 08:24:25 --> 404 Page Not Found: Assets/quem_somos
+ERROR - 2020-12-22 09:37:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-22 09:37:00 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-22 09:37:00 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-22 11:21:51 --> 404 Page Not Found: Kcfinder/browse.php
+ERROR - 2020-12-22 11:21:52 --> 404 Page Not Found: Assets/kcfinder
+ERROR - 2020-12-22 11:21:53 --> 404 Page Not Found: Admin/ckeditor
+ERROR - 2020-12-22 11:21:53 --> 404 Page Not Found: Admin/kcfinder
+ERROR - 2020-12-22 11:21:54 --> 404 Page Not Found: Js/kcfinder
+ERROR - 2020-12-22 11:21:54 --> 404 Page Not Found: Assets/ckeditor
+ERROR - 2020-12-22 11:21:55 --> 404 Page Not Found: Assets/js
+ERROR - 2020-12-22 11:21:55 --> 404 Page Not Found: Assets/admin
+ERROR - 2020-12-22 11:21:56 --> 404 Page Not Found: Ckeditor/kcfinder
+ERROR - 2020-12-22 11:21:56 --> 404 Page Not Found: Panel/kcfinder
+ERROR - 2020-12-22 11:53:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-22 11:53:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-22 17:44:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-22 23:03:47 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-22 23:03:47 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-22 23:03:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-22 23:52:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-22 23:54:00 --> 404 Page Not Found: Robotstxt/index

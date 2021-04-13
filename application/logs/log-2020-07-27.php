@@ -1,0 +1,59 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-27 18:24:45 --> 404 Page Not Found: Assets/js
+ERROR - 2020-07-27 18:24:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-27 18:24:50 --> 404 Page Not Found: Site/assets
+ERROR - 2020-07-27 18:28:22 --> 404 Page Not Found: Assets/js
+ERROR - 2020-07-27 18:28:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-27 18:28:31 --> 404 Page Not Found: Site/assets
+ERROR - 2020-07-27 18:30:11 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /home1/realize/public_html/system/libraries/Form_validation.php 1243
+ERROR - 2020-07-27 18:30:12 --> 404 Page Not Found: Site/assets
+ERROR - 2020-07-27 18:30:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-27 18:30:16 --> 404 Page Not Found: Assets/js
+ERROR - 2020-07-27 18:30:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-27 18:30:18 --> 404 Page Not Found: Site/assets
+ERROR - 2020-07-27 18:30:26 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /home1/realize/public_html/system/libraries/Form_validation.php 1243
+ERROR - 2020-07-27 18:30:26 --> 404 Page Not Found: Site/assets
+ERROR - 2020-07-27 18:30:35 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /home1/realize/public_html/system/libraries/Form_validation.php 1243
+ERROR - 2020-07-27 18:30:42 --> 404 Page Not Found: Site/assets
+ERROR - 2020-07-27 19:00:47 --> 404 Page Not Found: Site/assets
+ERROR - 2020-07-27 20:52:49 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-07-27 20:53:05 --> 404 Page Not Found: Wp/index
+ERROR - 2020-07-27 20:53:19 --> 404 Page Not Found: Blog/index
+ERROR - 2020-07-27 20:53:48 --> 404 Page Not Found: New/index
+ERROR - 2020-07-27 20:54:02 --> 404 Page Not Found: Old/index
+ERROR - 2020-07-27 20:54:14 --> 404 Page Not Found: Backup/index
+ERROR - 2020-07-27 20:54:27 --> 404 Page Not Found: Oldsite/index
+ERROR - 2020-07-27 20:54:45 --> 404 Page Not Found: Back/index
+ERROR - 2020-07-27 20:55:09 --> 404 Page Not Found: 2017/index
+ERROR - 2020-07-27 20:55:25 --> 404 Page Not Found: 2018/index
+ERROR - 2020-07-27 20:55:45 --> 404 Page Not Found: Div/index
+ERROR - 2020-07-27 20:56:02 --> 404 Page Not Found: Temp/index
+ERROR - 2020-07-27 22:48:18 --> 404 Page Not Found: Blog/index
+ERROR - 2020-07-27 22:48:19 --> 404 Page Not Found: Wp/index
+ERROR - 2020-07-27 22:48:19 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-07-27 22:48:20 --> 404 Page Not Found: New/index
+ERROR - 2020-07-27 22:48:20 --> 404 Page Not Found: Old/index
+ERROR - 2020-07-27 22:48:21 --> 404 Page Not Found: Test/index
+ERROR - 2020-07-27 22:48:21 --> 404 Page Not Found: Main/index
+ERROR - 2020-07-27 22:48:22 --> 404 Page Not Found: Backup/index
+ERROR - 2020-07-27 22:48:23 --> 404 Page Not Found: Demo/index
+ERROR - 2020-07-27 22:48:24 --> 404 Page Not Found: Home/index
+ERROR - 2020-07-27 22:48:24 --> 404 Page Not Found: Tmp/index
+ERROR - 2020-07-27 22:48:25 --> 404 Page Not Found: Cms/index
+ERROR - 2020-07-27 22:48:25 --> 404 Page Not Found: Dev/index
+ERROR - 2020-07-27 22:48:26 --> 404 Page Not Found: Old-wp/index
+ERROR - 2020-07-27 22:48:26 --> 404 Page Not Found: Web/index
+ERROR - 2020-07-27 22:48:27 --> 404 Page Not Found: Old-site/index
+ERROR - 2020-07-27 22:48:27 --> 404 Page Not Found: Temp/index
+ERROR - 2020-07-27 22:48:28 --> 404 Page Not Found: 2018/index
+ERROR - 2020-07-27 22:48:28 --> 404 Page Not Found: 2019/index
+ERROR - 2020-07-27 22:48:29 --> 404 Page Not Found: Bk/index
+ERROR - 2020-07-27 22:48:30 --> 404 Page Not Found: Wp1/index
+ERROR - 2020-07-27 22:48:30 --> 404 Page Not Found: Wp2/index
+ERROR - 2020-07-27 22:48:31 --> 404 Page Not Found: V1/index
+ERROR - 2020-07-27 22:48:31 --> 404 Page Not Found: V2/index
+ERROR - 2020-07-27 22:48:32 --> 404 Page Not Found: Bak/index
+ERROR - 2020-07-27 22:48:32 --> 404 Page Not Found: Install/index
+ERROR - 2020-07-27 22:48:33 --> 404 Page Not Found: 2020/index
+ERROR - 2020-07-27 22:48:33 --> 404 Page Not Found: New-site/index

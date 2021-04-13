@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-01-28 00:08:21 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-01-28 07:09:45 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-01-28 07:32:08 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-01-28 07:36:23 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-01-28 07:36:23 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-01-28 08:10:29 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-28 08:10:29 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-28 08:10:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-28 08:58:53 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-28 08:58:53 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-28 08:58:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-28 10:03:41 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-01-28 10:03:41 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-01-28 10:03:41 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-01-28 10:03:55 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-28 10:03:55 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-28 10:03:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-28 10:20:50 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-28 10:20:50 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-28 10:20:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-28 16:45:38 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-01-28 16:45:57 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-28 16:45:57 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-28 16:45:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-28 17:23:35 --> 404 Page Not Found: Assets/quem_somos
+ERROR - 2021-01-28 17:23:35 --> 404 Page Not Found: Assets/quem_somos
+ERROR - 2021-01-28 17:23:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-28 22:05:53 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-28 22:05:53 --> 404 Page Not Found: Assets/login
+ERROR - 2021-01-28 22:05:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-01-28 22:41:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-28 22:41:50 --> 404 Page Not Found: Robotstxt/index

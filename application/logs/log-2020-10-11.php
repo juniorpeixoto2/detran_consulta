@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-10-11 05:48:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-11 10:48:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-11 10:48:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-11 10:48:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-11 14:07:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-11 14:07:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-11 15:05:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-11 19:26:21 --> 404 Page Not Found: Login/index
+ERROR - 2020-10-11 19:26:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-11 19:26:33 --> 404 Page Not Found: Assets/js
+ERROR - 2020-10-11 19:26:45 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-11 19:26:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-11 19:42:38 --> 404 Page Not Found: Login/index
+ERROR - 2020-10-11 19:42:43 --> 404 Page Not Found: Assets/js
+ERROR - 2020-10-11 19:45:41 --> 404 Page Not Found: Login/index
+ERROR - 2020-10-11 19:45:48 --> 404 Page Not Found: Assets/js
+ERROR - 2020-10-11 19:45:51 --> 404 Page Not Found: Assets/js
+ERROR - 2020-10-11 19:45:55 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-11 19:46:21 --> 404 Page Not Found: Login/index
+ERROR - 2020-10-11 19:46:35 --> 404 Page Not Found: Assets/js
+ERROR - 2020-10-11 19:47:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-11 19:47:25 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-11 19:47:35 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-11 19:49:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-11 19:50:50 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-11 19:52:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-11 19:52:38 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-11 19:53:51 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-11 19:54:54 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-11 21:50:17 --> 404 Page Not Found: Site/assets

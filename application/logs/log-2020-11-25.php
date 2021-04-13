@@ -1,0 +1,79 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-25 06:09:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 06:09:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 09:38:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 09:38:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 09:38:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 09:38:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 09:38:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 09:38:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 09:38:35 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-25 10:08:46 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 10:08:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-25 10:46:46 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 10:46:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-25 10:47:14 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 10:47:26 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 10:49:17 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 10:49:44 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 10:49:49 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 10:49:52 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-25 11:54:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 11:54:31 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-25 12:00:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 16:55:48 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 16:55:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-25 16:55:53 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-25 16:56:05 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-25 16:56:11 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-25 16:56:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-25 16:56:20 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-25 16:56:29 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-25 16:56:39 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-25 17:14:31 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 17:14:32 --> 404 Page Not Found: Assets/site
+ERROR - 2020-11-25 17:14:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-25 17:14:33 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 17:35:51 --> Severity: Notice --> Undefined variable: meet /home1/realize/public_html/application/views/cliente/sala.php 4
+ERROR - 2020-11-25 17:35:51 --> Severity: Notice --> Trying to get property 'status' of non-object /home1/realize/public_html/application/views/cliente/sala.php 4
+ERROR - 2020-11-25 17:39:04 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 17:39:48 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-25 17:39:58 --> 404 Page Not Found: Site/adm
+ERROR - 2020-11-25 17:40:06 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 17:40:17 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 17:40:27 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 17:40:41 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 17:41:45 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated /home1/realize/public_html/system/libraries/Form_validation.php 1243
+ERROR - 2020-11-25 17:43:51 --> Severity: Notice --> Undefined index: tipoCliente /home1/realize/public_html/application/libraries/Auth.php 79
+ERROR - 2020-11-25 17:43:51 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home1/realize/public_html/system/core/Exceptions.php:271) /home1/realize/public_html/system/libraries/Session/Session_driver.php 149
+ERROR - 2020-11-25 17:43:53 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-25 17:52:33 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 17:52:37 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-25 17:52:40 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-25 17:52:49 --> 404 Page Not Found: Site/adm
+ERROR - 2020-11-25 17:52:56 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 18:52:28 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 18:52:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-25 18:52:39 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-25 20:23:38 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 20:23:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-25 20:24:02 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-25 20:25:12 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-25 20:32:44 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 20:54:37 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 23:14:13 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-25 23:14:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-25 23:29:03 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-11-25 23:29:05 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-11-25 23:29:05 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-11-25 23:29:06 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-11-25 23:29:06 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-11-25 23:29:07 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-11-25 23:29:07 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-11-25 23:29:08 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-11-25 23:29:08 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-11-25 23:29:08 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-11-25 23:29:09 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-11-25 23:29:09 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-11-25 23:29:10 --> 404 Page Not Found: Sito/wp-includes

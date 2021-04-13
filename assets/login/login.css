@@ -1,0 +1,59 @@
+:root {
+    --color-primary:#2c2c42;
+    --color-secondary:#228cf4;
+    --color-yellow:#a89968;
+    --color-grey:#535353;
+}
+
+nav {   
+    background: #282841!important;
+}
+
+#login h2 {
+    font-family: 'Campton'!important;
+    font-size: 55px;
+    color:var(--color-primary);
+}
+
+#login p {
+    font-family: 'Zonapro'!important;
+    font-size: 20px;
+    color: var(--color-primary);
+}
+
+#login input {
+    width: 100%;
+    font-family: 'Zonapro'!important;
+    font-size: 26px;
+    color: var(--color-primary);
+    border: none;
+    border-bottom: 1px solid var(--color-primary);
+}
+
+#login button {
+    border: none;
+    border-radius: 10px;
+    font-family: 'Campton'!important;
+    font-size: 30px;
+    background:linear-gradient(to right, #1b366b,#007ebe);
+    color: #ffff;
+}
+
+#login button:hover {
+    background:#1b366b;
+}
+
+#login h5 a {
+    font-family: 'Zonapro'!important;
+    font-size: 14px;
+    margin-left: 15vw;
+    color: var(--color-secondary);
+}
+
+
+@media(max-width:768px) {
+    #login button {
+        width: 100%;
+        font-size: 16px;
+    }
+}

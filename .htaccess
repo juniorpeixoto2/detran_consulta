@@ -1,0 +1,16 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L]
+# php -- BEGIN cPanel-generated handler, do not edit
+# Defina o pacote “ea-php73” como a linguagem padrão de programação “PHP”.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php73 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^realizeinvest\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.realizeinvest\.com$
+RewriteRule ^/?$ "https\:\/\/realizeinvest\.com\/" [R=301,L]
+

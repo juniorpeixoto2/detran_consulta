@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-03-27 00:08:24 --> 404 Page Not Found: Wp-content/index
+ERROR - 2021-03-27 00:35:31 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-03-27 04:58:37 --> 404 Page Not Found: Public/assets
+ERROR - 2021-03-27 05:12:35 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2021-03-27 05:49:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-27 05:49:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-27 06:10:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-27 06:10:21 --> 404 Page Not Found: Blog/robots.txt
+ERROR - 2021-03-27 06:10:21 --> 404 Page Not Found: Blog/index
+ERROR - 2021-03-27 06:10:22 --> 404 Page Not Found: Wordpress/index
+ERROR - 2021-03-27 06:10:22 --> 404 Page Not Found: Wp/index
+ERROR - 2021-03-27 11:08:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-27 11:26:12 --> 404 Page Not Found: Wp-admin/index
+ERROR - 2021-03-27 14:42:03 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-03-27 14:42:03 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-03-27 14:42:03 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-03-27 16:05:16 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-03-27 18:10:02 --> 404 Page Not Found: Public/assets
+ERROR - 2021-03-27 18:10:02 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-03-27 19:28:48 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-03-27 20:49:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-27 20:49:36 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-03-27 21:09:05 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-03-27 21:09:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-03-27 21:09:08 --> 404 Page Not Found: Assets/login
+ERROR - 2021-03-27 21:09:08 --> 404 Page Not Found: Assets/login
+ERROR - 2021-03-27 21:19:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-27 21:19:37 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-03-27 23:27:19 --> 404 Page Not Found: Wordpress/wp-admin

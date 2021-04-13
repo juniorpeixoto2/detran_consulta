@@ -1,0 +1,563 @@
+body{
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+}
+
+.container{
+    width: 73%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.container:nth-child(1){
+    height: 97vh;
+}
+
+.container header{
+    width: 100%;
+    height: 10.18vh;
+    margin-top: 4.62vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container header img{
+    height: 100%;
+}
+
+.container header ul{
+    height: 2.22vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2.31vh 1.97vw 0 0;
+}
+
+.container header ul li{
+    height: 2.22vh;
+    margin-left: 1.97vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+li:nth-child(1), li:nth-child(2), li:nth-child(3), li:nth-child(4){
+    margin-top: 4px;
+}
+
+.container header ul li h3{
+    font-family: 'Campton', sans-serif;
+    font-size: 2.029rem;
+    font-weight: 300;
+    letter-spacing: 0.05rem;
+    text-align: center;
+}
+
+.container header ul li#login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, #685a36 20%, #a79b7f 80%);
+    width: 6.5vw;
+    height: 2.22vh;
+    border-radius: 50vw;
+    margin-left: 2.34vw;
+}
+
+.container header ul li#login h3{
+    font-family: 'Campton', sans-serif;
+    font-size: 1.69rem;
+    font-weight: bold;
+    margin-top: 3px;
+}
+
+.container .description{
+    width: 73vw;
+    height: 80vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.container .description h1{
+    font-family: 'Zona pro', sans-serif;
+    font-weight: bold;
+    font-size: 5.259rem;
+    font-kerning: 0;
+    text-align: right;
+    margin: 13.42vh 1.97vw 0 0;
+}
+
+.container .description h1 strong{
+    color: #ada68a;
+}
+
+.container .description a{
+    font-family: 'Zona pro', sans-serif;
+    font-weight: bold;
+    font-size: 2.636rem;
+    font-kerning: 0;
+    text-align: center;
+    color: #2a4876;
+    margin: 6.66vh 1.7vw 0 0;
+    width: 16.1vw;
+    height: auto;
+    background: #ffffff;
+    border-radius: 0.98vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container:nth-child(2){
+    height: 103vh;
+}
+
+.container .cards{
+    height: 12.03vh;
+    width: 73vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+}
+
+.container .cards .card{
+    height: 11.7vh;
+    width: 10.78vw;
+    background: linear-gradient(90deg, #203469 10%, #0094d8 90%);
+    border-radius: 0.57vw;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+    transition: 500ms;
+}
+
+.container .cards .card img{
+    height: 70%;
+}
+
+.container h1#why{
+    color: #2c2c42;
+    font-family: 'Campton', sans-serif;
+    font-size: 5.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 6vh;
+    letter-spacing: 0;
+    line-height: 5.5rem;
+}
+
+.container .cards2{
+    width: 63.12vw;
+    height: 11.29vh;
+    margin: 2.77vh auto 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.container .cards2 .card{
+    width: 15vw;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container .cards2 .card h1{
+    color: #ffffff;
+    font-family: 'Zona pro', sans-serif;
+    font-weight: bold;
+    font-size: 3.0rem;
+    width: 3.64vw;
+    height: 3.64vw;
+    border-radius: 1.82vw;
+    background: linear-gradient(90deg, #203469 10%, #0094d8 90%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container .cards2 .card p{
+    color: #2c2c42;
+    font-family: 'Zona pro', sans-serif;
+    font-weight: 300;
+    font-size: 1.873rem;
+    letter-spacing: 0;
+    line-height: 1.8rem;
+}
+
+.container:nth-child(2) h2{
+        color: #ffffff;
+        font-family: 'Zona pro', sans-serif;
+        font-size: 2.1rem;
+        letter-spacing: 0.02rem;
+        line-height: 2.3rem;
+        text-align: center;
+        height: 7.4vh;
+        width: 62.3vw;
+        background: linear-gradient(90deg, #203469 5%, #0094d8 95%);
+        margin: 3.24vh auto 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 0.625vw;
+}
+
+.container .earnings{
+    background: url(./public/images/CRESCIMENTO-EM-ANOS.png) no-repeat center center;
+    background-size: contain;
+    width: 52.5vw;
+    height: 37.68vh;
+    margin: 3.7vh auto 0;
+}
+
+.container .earnings h3{
+    font-family: 'Zero pro', sans-serif;
+    font-weight: bold;
+    font-size: 2.247rem;
+    color: #2c2c42;
+    letter-spacing: 0.03rem;
+    text-align: left;
+}
+
+.container .earnings h1{
+    font-family: 'Zero pro', sans-serif;
+    font-weight: bold;
+    font-size: 5.474rem;
+    color: #2c2c42;
+    letter-spacing: 0.03rem;
+    line-height: 4.16vh;
+    text-align: left;
+}
+
+.container .earnings h3#price{
+    color: #b1a88a;
+    margin-top: 1.5vh;
+}
+
+.container:nth-child(3){
+    width: 100%;
+    background: url(./public/images/fundo1.png) center center no-repeat;
+    background-size: cover;
+}
+
+.container:nth-child(4){
+    width: 100%;
+    background: url(./public/images/fundo2.png) center center no-repeat;
+    background-size: cover;
+}
+
+.content {
+    width: 73vw;
+    display: flex;
+    margin-top: 13.42vh;
+}
+
+.content .title{
+    margin: 0 auto;
+}
+
+.content .title span{
+    width: 6.25vw;
+    height: 0.37vh;
+    display: flex;
+    background: #b1a88a;
+    margin-bottom: 2.31vh;
+}
+
+.content .title h1{
+    font-family: 'Zona pro', sans-serif;
+    font-weight: bold;
+    font-size: 3.314rem;
+    line-height: 3.24vh;
+    letter-spacing: 0.03rem;
+}
+
+.content .blocks{
+    margin: 0 auto;
+}
+
+.content .blocks .block{
+    background: #ffffff;
+    width: 32.29vw;
+    height: 14.35vh;
+    border-radius: 1.3vw;
+    margin-bottom: 2.59vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.content .blocks .block:nth-child(1){
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 28.7vh;
+}
+
+.content .blocks .block:nth-child(1) img{
+    height: 37%;
+}
+
+.content .blocks .block p{
+    font-family: 'Zona pro', sans-serif;
+    font-weight: bold;
+    font-size: 1.474rem;
+    letter-spacing: 0.03rem;
+    line-height: 2.35vh;
+    color: #2c2c42;
+    text-align: right;
+}
+
+.content .blocks .block:nth-child(1) p{
+    text-align: center;
+    margin-top: 2vh;
+}
+
+.content .blocks .block:nth-child(2) img, .block:nth-child(3) img, .block:nth-child(4) img{
+    width: 10%;
+    margin: auto 1.04vw auto 0;
+}
+
+.content .blocks .block:nth-child(2) p, .block:nth-child(3) p, .block:nth-child(4) p{
+    margin: auto 2.08vw auto 0;
+    width: 19.89vw;
+}
+
+.detail{
+    height: 5.74vh;
+    width: 0.17vw;
+    background: #b1a88a;
+    display: flex;
+    margin: auto 1.56vw auto 2.08vw;
+}
+
+.container p{
+    font-family: 'Zona pro', sans-serif;
+    font-weight: bold;
+    font-size: 1.474rem;
+    letter-spacing: 0.03rem;
+    line-height: 2.35vh;
+    color: #b1a88a;
+    margin-top: 3.88vh;
+}
+
+.container:nth-child(4) h1{
+    font-family: 'Campton', sans-serif;
+    font-weight: bold;
+    font-size: 5.5rem;
+    letter-spacing: 0;
+    line-height: 4.53vh;
+    color: #b1a88a;
+    text-align: center;
+    margin-top: 3.9vh;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container:nth-child(4) .input{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 73vw;
+}
+
+.container .box{
+    width: 14.84vw;
+    height: 16.2vh;
+    border-radius: 0.57vw;
+    background: linear-gradient(90deg, #6a5d3a 5%, #7c7a6b 95%);
+    margin: 5.09vh auto 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container .box .title{
+    width: 12.5vw;
+    height: 6.48vh;
+    margin: 1.57vh auto 1.5vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.container .box .title h2{
+    font-family: 'Zona pro', sans-serif;
+    font-weight: bold;
+    font-size: 4.8rem;
+}
+
+.container .box .title h3{
+    font-family: 'Zona pro', sans-serif;
+    font-weight: bold;
+    font-size: 1.473rem;
+    letter-spacing: 0.03rem;
+    line-height: 1.79vh;
+    margin: 0 0 0 1.56vw;
+}
+
+.container label{
+    color: #ffffff;
+    font-family: 'Zona pro', sans-serif;
+    font-weight: bold;
+    font-size: 1.4rem;
+    width: 12vw;
+    text-align: left;
+    margin-bottom: 0.277vh;
+}
+
+.container input, select{
+    width: 12.23vw;
+    height: 3.14vh;
+    border-radius: 0.18vw;
+    font-family: 'Zona pro', sans-serif;
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+.container input{
+    padding-left: 0.26vw;
+}
+
+.container .submit{
+    width: 72vw;
+    height: 4.62vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0px 0px 0.41vw 0.41vw;
+    border-width: 0 0.22vw 0.22vw;
+    border-style: solid;
+    border-color: #8ba2bb;
+}
+
+.container .submit button{
+    margin-top: 5.09vh;
+    width: 10.15vw;
+    height: 2.59vh;
+    border-radius: 100vw;
+    background: linear-gradient(90deg, #6a5d3a 5%, #7c7a6b 95%);
+    font-family: 'Zona pro', sans-serif;
+    font-weight: bold;
+    font-size: 1.4rem;
+    color: #ffffff;
+    text-align: center;
+}
+
+.container:nth-child(5){
+    display: flex;
+    flex-direction: column;
+}
+
+.container:nth-child(5) .content{
+    margin: 0;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container:nth-child(5) h1{
+    font-family: 'Zona pro', sans-serif;
+    font-weight: bold;
+    font-size: 5rem;
+    letter-spacing: 0px;
+    color: #2c2c42;
+    margin-top: 7.12vh;
+}
+
+.imgs{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    height: 16.75vh;
+    width: 70vw;
+    margin: 5.55vh 0 0 auto;
+}
+
+.imgs #valor img{
+    width: 20.93vw;
+}
+
+.imgs #infomoney img{
+    width: 11.25vw;
+}
+
+.imgs #invest img{
+    width: 24.32vw;
+}
+
+.imgs span{
+    height: 11.11vh;
+    width: 0.2vw;
+    display: flex;
+    background: #b1a88a;
+    margin: auto;
+}
+
+.container:nth-child(5) .acess{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70vw;
+    margin: 2.77vh auto 0;
+}
+
+.container:nth-child(5) .acess a{
+    margin: 0 auto;
+    font-family: 'Zona pro', sans-serif;
+    font-weight: 300;
+    font-size: 2.141rem;
+    color: #001864;
+}
+
+.container:nth-child(5) .logo{
+    height: 15.27vh;
+    margin-top: 9.25vh;
+}
+
+.container footer{
+    width: 64.84vw;
+    height: 22.68vh;
+    margin-top: 10.18vh;
+    display: flex;
+    align-items: center;
+}
+
+.container footer .column{
+    width: 13.54vw;
+    height: 100%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.container footer .column h3{
+    font-family: 'Campton', sans-serif;
+    font-weight: bold;
+    font-size: 2.536rem;
+    color: #545454;
+}
+
+.container footer .column h4{
+    font-family: 'Zona pro', sans-serif;
+    font-weight: bold;
+    font-size: 1.8rem;
+    color: #ada68a;
+    line-height: 3.7vh;
+}

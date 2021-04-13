@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-16 03:30:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 08:04:25 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-16 08:04:26 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-16 08:04:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-16 09:21:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-16 10:10:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 10:10:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 11:12:29 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-16 11:12:53 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-16 11:12:58 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-16 11:13:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-16 11:13:32 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-16 11:13:37 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-16 11:22:43 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-16 16:01:57 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-16 16:01:58 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-16 16:01:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-16 16:02:02 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-16 16:02:05 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-16 16:02:12 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-16 16:02:21 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-16 16:03:29 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-16 16:03:30 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-16 16:20:24 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-16 16:20:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-16 16:21:23 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-16 16:21:36 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-16 16:21:38 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-16 17:39:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-16 17:59:05 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-16 17:59:06 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-16 17:59:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-16 19:46:47 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-16 23:51:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 23:51:16 --> 404 Page Not Found: Robotstxt/index

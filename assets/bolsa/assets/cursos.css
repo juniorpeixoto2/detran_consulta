@@ -1,0 +1,164 @@
+:root {
+    --color-header:#090a2eef;
+    --color-primary:#00003d;
+    --color-secondary:#228cf4;
+    --color-yellow:#a69f83;
+    --color-grey:#535353;
+}
+
+
+/*Header*/
+header {
+    width: 100vw;
+    background:var(--color-header);
+}
+
+
+nav a {
+    color: rgba(255, 255, 255, 0.651)!important;
+    font-family: "Campton";
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+nav a:hover {
+    color:var(--color-secondary)!important;
+}
+
+nav li:nth-child(5) {
+   border: 2px solid var(--color-yellow);
+   border-radius: 20px;
+   font-weight: bold;
+}
+
+nav li:nth-child(5):hover {
+    background:var(--color-yellow)
+}
+
+
+header h2 {
+    font-family: "Zonapro";
+    font-size: 110px;
+    margin-top: 22vh;
+}
+
+header p {
+    font-family: "Zonapro";
+    font-size: 30px;
+}
+header button.btn-lg {
+    background:linear-gradient(to right,#1f3369,#003794)!important;
+    font-family: "Zonapro";
+    font-size: 25px;
+    border:none;
+    border-radius: 60px!important;
+}
+
+/* Main */
+section#content {
+    animation:fade 1s;
+}
+section#content h1 {
+    font-family: "Zonapro";
+    font-weight: 900;
+    font-size: 80px;
+    color: var(--color-primary)!important;
+}
+
+section#content .buy-hold{
+    width: 100vw;
+    height:50vh;
+    background-image:url(../media/cursos-fundo1.PNG);
+    background-repeat: no-repeat;
+    background-size: 100vw 50vh;
+    margin-left: 5px;
+    font-weight:bold;
+}
+
+section#content .trade{
+    width: 100vw;
+    height:50vh;
+    background-image:url(../media/cursos-fundo2.PNG);
+    background-repeat: no-repeat;
+    background-size: 100vw 50vh;
+    margin-left: 5px;
+    font-weight:bold;
+}
+
+section#content .buy-hold .buy-hold-text h2,section#content .trade .trade-text h2 {
+    color:var(--color-yellow);
+    font-size: 58px;
+    line-height: 20vh;
+}
+
+section#content .buy-hold .buy-hold-text,section#content .trade .trade-text  {
+    font-family: "ZonaPro";
+    font-size: 60px;
+    color:white;
+}
+
+section#content .text-cursos {
+    font-family: "Zonapro";
+    font-size: 25px;
+    font-weight: bold;
+    color: var(--color-primary);
+    letter-spacing: 2px;
+}
+
+section#content .container h2 {
+    font-weight:bold;
+    font-size: 50px;
+    color: var(--color-primary);
+}
+
+section#content .container h3 {
+    font-family: "Zonapro";
+    color: var(--color-primary);
+}
+
+section#content form {
+    text-align: left;
+}
+
+section#content form input {
+    border: 1px solid rgb(88, 87, 87);
+}
+
+section#content form label {
+    color: var(--color-primary)!important;
+    font-size: 20px;
+}
+
+section#content form button {
+    background:linear-gradient(to right,#1f3369,#3159a0)!important;
+    font-size: 20px;
+    color: #fff;
+}
+
+section#content form button:hover {
+    background:#0e276d!important;
+    transform: translateY(4px);
+    
+}
+
+
+@media(max-width:400px) {
+    section#content h1 {
+        font-size:60px;
+    }
+
+    form h2 {
+        font-size: 40px!important;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+

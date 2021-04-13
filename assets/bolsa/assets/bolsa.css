@@ -1,0 +1,130 @@
+
+/*Header*/
+header {
+    width: 100vw;
+    height:100vh;
+    background-image: url(../media/CAPA-BOLSA.png);
+    background-size: cover;
+}
+
+
+nav a {
+    color: rgba(255, 255, 255, 0.651)!important;
+    font-family: "Campton";
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+nav a:hover {
+    color:var(--color-secondary)!important;
+}
+
+nav li:nth-child(5) {
+   border: 2px solid var(--color-yellow);
+   border-radius: 20px;
+   font-weight: bold;
+}
+
+nav li:nth-child(5):hover {
+    background:var(--color-yellow);
+}
+
+
+header h2 {
+    font-family: "Zonapro";
+    font-size: 58px;
+    margin-top: 22vh;
+    color:#a69f83;
+    font-weight: bold;
+
+}
+
+header h1 {
+    font-family: "Zonapro";
+    font-size: 90px;
+    color:#fff;
+    font-weight: bold;
+}
+
+header p {
+    font-family: "Zonapro";
+    font-size: 30px;
+}
+header button.btn-lg {
+    background:linear-gradient(to right,#1f3369,#003794)!important;
+    font-family: "Zonapro";
+    font-size: 25px;
+    border:none;
+    border-radius: 60px!important;
+}
+
+/* Main */
+main h2 {
+    font-family: "Zonapro";
+    font-weight: bold;
+    font-size: 55px;
+    color: #fff;
+    text-decoration: underline;
+}
+
+main h3 {
+    font-family: "Zonapro";
+    font-family: 45px;
+    font-weight: bold;
+    color: #a3924c;
+}
+
+main h4 {
+    font-family: "Zonapro";
+    font-size: 45px;
+    color: #00003d;
+}
+
+main p {
+    font-family:"Zonapro";
+    font-weight:bold;
+    font-size: 25px;
+}
+
+img.corretoras {
+    width: 80vw;
+}
+
+section#abrir-conta .container > p {
+   font-weight: normal;
+   color: #fff;
+}
+
+section#passos .container  p {
+    font-weight: normal;
+    color: #fff;
+}
+
+
+section#principais .container h4 img {
+    position: relative;
+    right: 18000px;
+
+}
+
+@media (max-width: 500px) {
+    header .container h1 {
+        font-size: 50px;
+    }
+    .row img {
+        max-width: 250px;
+        display: flex;
+        justify-content:center;
+        object-fit: cover;
+    }
+
+    img.escolha {
+        max-width: 300px;
+        margin: 0 auto;
+    }
+    
+}
+
+
+
+

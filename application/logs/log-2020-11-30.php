@@ -1,0 +1,49 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-30 02:40:29 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-30 02:40:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-30 02:42:20 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-30 02:42:48 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-30 02:42:52 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-30 02:42:53 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-30 02:43:06 --> 404 Page Not Found: Assets/site
+ERROR - 2020-11-30 02:43:06 --> 404 Page Not Found: Assets/site
+ERROR - 2020-11-30 06:09:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 06:09:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 06:09:48 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-30 08:56:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-30 09:15:03 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-30 09:15:04 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-30 09:15:05 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-30 09:15:05 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-30 09:15:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-30 09:15:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-30 10:30:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-30 13:30:42 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-30 13:30:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-30 13:30:50 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-30 13:32:10 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-30 13:32:16 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-30 13:33:28 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-30 13:33:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-30 13:33:43 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-30 13:34:37 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-30 13:35:01 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-30 13:35:05 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-30 13:36:46 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-30 14:53:26 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-30 14:53:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-30 14:54:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-30 16:19:12 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-30 16:19:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-30 16:19:31 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-30 16:21:13 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-30 17:00:35 --> Severity: Notice --> Undefined variable: meet /home1/realize/public_html/application/views/cliente/sala.php 4
+ERROR - 2020-11-30 17:00:35 --> Severity: Notice --> Trying to get property 'status' of non-object /home1/realize/public_html/application/views/cliente/sala.php 4
+ERROR - 2020-11-30 18:50:57 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-30 19:54:53 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-30 21:10:46 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-30 21:10:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-30 22:25:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-30 22:45:56 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-30 22:45:58 --> 404 Page Not Found: Faviconico/index

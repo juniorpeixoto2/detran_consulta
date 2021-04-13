@@ -1,0 +1,61 @@
+LOGIN
+
+Textos:
+
+Entrar no sistema
+Fonte: Caompton bold
+tamanho: 55
+#2c2c42
+
+------------------
+Todos os campos são de preenchimento obrigatório.
+Fonte: Zona Pro Extralight
+Tamanho: 20
+#2c2c42
+
+------------
+(Fixo) - Login / E-mail
+Fonte: Zona Pro Extralight
+Tamanho: 20
+#2c2c42
+
+-------------
+(Campo de preenchimento) - Login / E-mail
+Fonte: Zona Pro Extralight
+Tamanho: 26
+#2c2c42
+
+-------------
+
+(Fixo) - Senha
+Fonte: Zona Pro Extralight
+Tamanho: 20
+#2c2c42
+
+--------------
+
+(Campo de preenchimento) - Senha
+Fonte: Zona Pro Extralight
+Tamanho: 26
+#2c2c42
+
+--------------
+
+Entrar
+Fonte: Camton Bold Demo
+Tamanho: 29,86
+#ffffff
+
+---------------
+
+Abra sua conta
+Fonte: Camton Bold Demo
+Tamanho: 29,86
+#ffffff
+
+----------------
+
+Esqueceu a senha?
+Fonte: Zona Pro Extralight
+Tamanho: 14
+#228cf4

@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-02-07 11:55:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 11:55:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 14:28:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 14:28:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 16:12:24 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-07 16:12:24 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-07 16:12:24 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-07 17:11:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 17:11:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 18:35:33 --> 404 Page Not Found: Public/images
+ERROR - 2021-02-07 18:35:33 --> 404 Page Not Found: Public/images
+ERROR - 2021-02-07 18:35:33 --> 404 Page Not Found: Public/images
+ERROR - 2021-02-07 18:35:33 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-02-07 18:35:33 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-07 18:35:33 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-07 18:35:33 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-07 20:09:19 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-07 20:09:19 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-07 20:09:19 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-07 20:09:19 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-02-07 20:14:01 --> 404 Page Not Found: Public/images
+ERROR - 2021-02-07 20:14:02 --> 404 Page Not Found: Public/images
+ERROR - 2021-02-07 20:14:02 --> 404 Page Not Found: Public/images
+ERROR - 2021-02-07 20:14:02 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-02-07 20:14:02 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-07 20:14:02 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-07 20:14:02 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-07 20:14:02 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-02-07 20:33:25 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-07 20:33:25 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-07 20:33:25 --> 404 Page Not Found: Assets/site2
+ERROR - 2021-02-07 20:33:25 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-02-07 20:33:26 --> 404 Page Not Found: Assetssite2/images
+ERROR - 2021-02-07 22:48:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-07 23:43:34 --> 404 Page Not Found: Well-known/security.txt

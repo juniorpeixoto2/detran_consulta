@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-14 02:26:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-14 02:26:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-14 05:48:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-14 08:35:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-14 08:38:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-14 10:08:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-14 10:19:42 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-14 10:19:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-14 10:21:20 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-14 10:36:27 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-14 10:36:28 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-14 10:36:31 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-14 10:36:40 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-14 10:36:52 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-14 10:36:55 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-14 10:36:56 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-14 10:37:24 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-14 10:37:44 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-14 11:18:41 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-14 11:19:16 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-14 11:38:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-14 13:17:46 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-14 13:17:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-14 15:45:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-14 15:45:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-14 15:51:11 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-14 15:51:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-14 15:51:22 --> 404 Page Not Found: Assets/js
+ERROR - 2020-11-14 15:51:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-14 15:51:24 --> 404 Page Not Found: Site/assets
+ERROR - 2020-11-14 19:30:58 --> 404 Page Not Found: Old/wp-admin

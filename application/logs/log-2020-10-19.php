@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-10-19 04:25:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 04:25:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 04:26:25 --> 404 Page Not Found: Assets/js
+ERROR - 2020-10-19 08:45:32 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-19 08:45:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-19 10:41:36 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-19 10:41:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-19 11:05:37 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-19 11:05:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-19 11:26:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-19 14:06:09 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-19 14:06:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-19 14:12:07 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-19 15:06:18 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-19 16:01:30 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-19 16:01:31 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-19 16:01:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-19 16:16:59 --> 404 Page Not Found: Assets/js
+ERROR - 2020-10-19 16:16:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-19 16:46:45 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-19 16:46:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-19 17:30:35 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-19 17:30:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-10-19 17:30:38 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-19 17:30:54 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-19 17:31:54 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-19 17:31:57 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-19 17:55:14 --> 404 Page Not Found: Site/assets
+ERROR - 2020-10-19 22:15:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 22:15:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 23:55:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 23:56:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 23:56:06 --> 404 Page Not Found: Site/assets

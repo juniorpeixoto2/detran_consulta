@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-30 00:46:38 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2020-12-30 01:06:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-30 05:50:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-30 11:25:56 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-30 11:25:56 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-30 11:25:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-30 12:59:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-30 12:59:46 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-30 12:59:46 --> 404 Page Not Found: Assets/login
+ERROR - 2020-12-30 14:53:09 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2020-12-30 15:16:21 --> 404 Page Not Found: Js/lib
+ERROR - 2020-12-30 15:16:36 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-12-30 15:16:37 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-12-30 15:16:38 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-12-30 15:16:38 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-12-30 15:16:38 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-12-30 15:16:39 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-12-30 15:16:39 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-12-30 15:16:39 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2020-12-30 15:16:39 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-12-30 15:16:40 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-12-30 15:16:40 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-12-30 15:16:40 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-12-30 15:16:40 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-12-30 15:16:41 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-12-30 15:16:41 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-12-30 15:16:41 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-12-30 21:15:02 --> 404 Page Not Found: Assetssite2/images
